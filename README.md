@@ -15,15 +15,27 @@
 
 ---
 
-## 🌙 Sobre mí
+## 🌙 About Me
 
-```yaml
-Nombre: Eimy
-Usuario: Sky_Dc
-País: México 🇲🇽
-Estado actual: Aprendiendo programación
-Meta: Convertirme en una gran ingeniera
-```
+<table>
+<tr>
+<td width="50%">
+
+> ✨ Creo que siempre hay algo nuevo por aprender.
+>
+> Actualmente estoy recorriendo el camino de mi carrera con curiosidad y determinación. Me gusta descubrir nuevas habilidades, enfrentar retos y mejorar cada día.
+>
+> Mi meta no es solo convertirme en una gran ingeniera, sino también crecer como persona, aprender de cada experiencia y nunca dejar de explorar todo aquello que despierte mi interés. 🌷💜
+
+</td>
+
+<td width="50%" align="center">
+
+<img width="735" height="734" alt="Nyxen&#39;s symbol" src="https://github.com/user-attachments/assets/0dc66f60-4507-4e3a-a2fb-25aba7f335f3" />
+
+</td>
+</tr>
+</table>
 
 ---
 

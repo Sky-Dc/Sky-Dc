@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img width="1774" height="887" alt="ChatGPT Image 11 jun 2026, 10_14_29 a m" src="https://github.com/user-attachments/assets/dd03b9ad-d259-408e-9e55-798204cf020c" />
@@ -6,10 +7,10 @@
 
 ### ✨ Code. Dream. Create.
 
-💻 Estudiante de Ingeniería  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23A1F7&width=435&lines=Estudiante+de+Ingenier%C3%ADa+en+IA)](https://git.io/typing-svg)
+
 ☕ Amante del café y las noches tranquilas  
 🌌 Aprendiendo programación paso a paso  
-🎮 Fan de los videojuegos y el diseño aesthetic
 
 </div>
 
@@ -70,5 +71,6 @@
 
 ✨ Gracias por visitar mi perfil ✨
 
+<img width="735" height="625" alt="Nap time - Celia Heredia" src="https://github.com/user-attachments/assets/b3a67265-16d7-4c65-b912-69afd4b530b9" />
 
 

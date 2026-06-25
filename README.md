@@ -4,11 +4,34 @@
 <img width="1774" height="887" alt="ChatGPT Image 11 jun 2026, 10_14_29 a m" src="https://github.com/user-attachments/assets/dd03b9ad-d259-408e-9e55-798204cf020c" />
 
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/Sky-Dc">Eimy Ramirez</a>'s Profile 👋</h1>
+  <h1 align="center">Bienvenido a <a href="https://github.com/Sky-Dc">mi </a>  perfil </h1>
 
   <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=Estudiante+de+ingenieria;soy+Persona+entusiasta;Me+gusta+retos;me+gusta+dibujar;me+@+oli"></p>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=Estudiante+de+ingenieria;Aprendiendo+cada+dia;Progreso+no+perfeccion;Visión+sin+limites;Siempre+optimista+@"></p>
 </div>
+
+---
+
+<p align="center">
+  <br>
+  <samp>
+    Hello! My name is <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Eimy</a></b>.
+    <br> I am an Artificial Intelligence Engineering student.<br>
+
+</samp>
+
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+
+</p>
+
+
+<details align="center">
+
+<summary> <b> <samp> Light bonfire </samp></b></summary>
+<samp>
+ <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
+
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
 ---
 
@@ -47,7 +70,7 @@
 
 ---
 
-## By the way, here are some of my statistics. 🚀
+## Statistics 🚀
 
 ![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=Sky-Dc&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sky-Dc&theme=tokyonight" alt="mystreak"/>
@@ -55,14 +78,16 @@
 
 ---
 
-### 🪼 Contribution
+## :headphones: Spotify Playing
 
-![snake gif](https://github.com/Sky-Dc/Sky-Dc/blob/output/github-snake-dark.svg)
+[![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) [![KPOP Music](https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2DFExFNWYOwQMZy6wUeCxX?si=s1Ndgj8hTg-r8zLlvRgv1Q) [![PPOP Music](https://img.shields.io/badge/PPOP%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58bZKfJFpUl2CwWET1QJ3X?si=259YV8_VRS-IKHsFZMmPTQ)
+
 
 ---
 
-### Spotify Playing 🎧
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
+### Contribution
+
+![snake gif](https://github.com/Sky-Dc/Sky-Dc/blob/output/github-snake-dark.svg)
 
 ---
 
@@ -87,7 +112,6 @@
  
 ---
 
-✨ Gracias por visitar mi perfil ✨
 
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+✨ Gracias por visitar mi perfil ✨
 

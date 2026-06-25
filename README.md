@@ -3,31 +3,23 @@
 
 <img width="1774" height="887" alt="ChatGPT Image 11 jun 2026, 10_14_29 a m" src="https://github.com/user-attachments/assets/dd03b9ad-d259-408e-9e55-798204cf020c" />
 
-# 🌙 Sky_Dc
+<p align="center">
+  <h1 align="center">Welcome to <a href="https://github.com/Sky-Dc">Eimy Ramirez</a>'s Profile 👋</h1>
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
-</p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23A1F7&width=435&lines=Estudiante+de+Ingenier%C3%ADa+en+IA)](https://git.io/typing-svg)
-
+  <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=Estudiante+de+ingenieria;soy+Persona+entusiasta;Me+gusta+retos;me+gusta+dibujar;me+@+oli"></p>
 </div>
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="Sky-Dc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sky-Dc&label=Profile%20views&color=0e75b6&style=flat" alt="Sky-Dc" /> </p>
 
 <br>
 
 <table>
   <tr>
     <td colspan="2" align="center" valign="middle">
-      <a href="https://updrop.in"><img src="https://img.shields.io/badge/Updrop.in-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-      &nbsp;
-      <a href="https://www.linkedin.com/in/karthick-aidev/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHRpdGxlPkxpbmtlZEluPC90aXRsZT48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&logoColor=white"></a>
-      &nbsp;
-      <a href="mailto:karthick.aidev@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
-      &nbsp;
-      <a href="https://drive.google.com/file/d/1W8HDDCPTHcm6hw8zbzDeKoxIxoKsz_VN/view?usp=sharing">
+      
   <tr>
     <td colspan="2" valign="middle">
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; ও αвσυт мє!! ۶ৎ   
@@ -49,7 +41,13 @@
 
 ---
 
-## By the way here are some of my statistics 🚀
+ <p align="center">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+</p>
+
+---
+
+## By the way, here are some of my statistics. 🚀
 
 ![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=Sky-Dc&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sky-Dc&theme=tokyonight" alt="mystreak"/>
@@ -57,25 +55,39 @@
 
 ---
 
-## 🌸 Actualmente
+### 🪼 Contribution
 
-- 🌱 Aprendiendo Python.
-- 📚 Estudiando Ingeniería.
-- ☕ Sobreviviendo con café.
-- ✨ Mejorando cada día.
+![snake gif](https://github.com/Sky-Dc/Sky-Dc/blob/output/github-snake-dark.svg)
 
 ---
 
-## 💌 Frase favorita
-
-> "No tienes que ser perfecta, solo seguir avanzando."
+### Spotify Playing 🎧
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
 
 ---
 
-<div align="center">
+###  🪽་༘ &nbsp;Connect with Me
+
+<p align="center">
+<a href="mailto:mimiluz1979@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/aliceramirez/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100009057373959"><img src="https://img.shields.io/badge/-Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+</p>
+
+
+---
+
+
+ ### 🧰 &nbsp;Other Tools 
+  
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
+ 
+---
 
 ✨ Gracias por visitar mi perfil ✨
 
-<img width="735" height="625" alt="Nap time - Celia Heredia" src="https://github.com/user-attachments/assets/b3a67265-16d7-4c65-b912-69afd4b530b9" />
-
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 

@@ -5,16 +5,16 @@
 
 # 🌙 Sky_Dc
 
-### ✨ Code. Dream. Create.
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23A1F7&width=435&lines=Estudiante+de+Ingenier%C3%ADa+en+IA)](https://git.io/typing-svg)
-
-☕ Amante del café y las noches tranquilas  
-🌌 Aprendiendo programación paso a paso  
 
 </div>
 
 ---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="Sky-Dc" /> </p>
 
 <br>
 
@@ -30,15 +30,14 @@
       <a href="https://drive.google.com/file/d/1W8HDDCPTHcm6hw8zbzDeKoxIxoKsz_VN/view?usp=sharing">
   <tr>
     <td colspan="2" valign="middle">
-      <h3>Hey there! I’m Karthick 👋</h3>
-    </td>
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; ও αвσυт мє!! ۶ৎ   
+
   </tr>
   <tr>
     <td valign="middle" width="70%">
       <br>
       <b>React Developer & AI/DS Undergrad</b> (Class of 2026)<br><br>
-      I am based in Trivandrum and deeply passionate about crafting minimalist, high-performance web applications and building efficient automated workflows.<br><br>
-      Currently, I'm focusing my energy on building <b>FileGhost</b> (a privacy-centric file-sharing platform) and <b>Updrop</b> (automation tools). My technical playground revolves around React, Tailwind CSS, local AI deployments, and orchestrating n8n pipelines to automate myself out of manual labor.<br><br>
+    Estudiante de la carrera de Ingenieria en Inteligencia Artificial en el Instituto Tecnologico Superior de Escarcega, actualmente cursando el tercer semestre <b>FileGhost</b> (a privacy-centric file-sharing platform) and <b>Updrop</b> (automation tools). My technical playground revolves around React, Tailwind CSS, local AI deployments, and orchestrating n8n pipelines to automate myself out of manual labor.<br><br>
     </td>
     <td align="center" valign="middle" width="30%">
       <a href="https://postimg.cc/NyFKLkth">
@@ -50,15 +49,11 @@
 
 ---
 
-## 📊 Estadísticas
+## By the way here are some of my statistics 🚀
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sky-Dc&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sky-Dc&layout=compact&theme=tokyonight" />
-</p>
+![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=Sky-Dc&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sky-Dc&theme=tokyonight" alt="mystreak"/>
+![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sky-Dc&theme=tokyonight&layout=compact)
 
 ---
 

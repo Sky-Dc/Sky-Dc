@@ -4,7 +4,7 @@
 <img width="1774" height="887" alt="ChatGPT Image 11 jun 2026, 10_14_29 a m" src="https://github.com/user-attachments/assets/dd03b9ad-d259-408e-9e55-798204cf020c" />
 
 <p align="center">
-  <h1 align="center">Bienvenido a <a href="https://github.com/Sky-Dc">mi </a>  perfil </h1>
+  <h1 align="center">Welcome to <a href="https://github.com/Sky-Dc">my </a>  profile </h1>
 
   <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=Estudiante+de+ingenieria;Aprendiendo+cada+dia;Progreso+no+perfeccion;Visión+sin+limites;Siempre+optimista+@"></p>
@@ -34,8 +34,14 @@
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
 ---
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sky-Dc&label=Profile%20views&color=0e75b6&style=flat" alt="Sky-Dc" /> </p>
+![Static Badge](https://img.shields.io/badge/Thanks%20for%20visiting!-05122A)
+![Static Badge](https://img.shields.io/badge/Star%20%E2%AD%90%20some%20repositories%20you%20find%20helpful!%20-05122A)
+![GitHub followers](https://img.shields.io/github/followers/Sky-Dc?style=flat&logo=github&color=05122A&labelColor=05122A)
+![Profile Views](https://komarev.com/ghpvc/?username=Sky-Dc&style=flat&labelolor=05122A&color=05122A)
+
+---
 
 <br>
 
@@ -45,14 +51,17 @@
       
   <tr>
     <td colspan="2" valign="middle">
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; ও αвσυт мє!! ۶ৎ   
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="35px">&nbsp; A few things about me   
 
   </tr>
   <tr>
     <td valign="middle" width="70%">
       <br>
-      <b>React Developer & AI/DS Undergrad</b> (Class of 2026)<br><br>
-    Estudiante de la carrera de Ingenieria en Inteligencia Artificial en el Instituto Tecnologico Superior de Escarcega, actualmente cursando el tercer semestre <b>FileGhost</b> (a privacy-centric file-sharing platform) and <b>Updrop</b> (automation tools). My technical playground revolves around React, Tailwind CSS, local AI deployments, and orchestrating n8n pipelines to automate myself out of manual labor.<br><br>
+      <b>Consistency breeds excellence. <br><br>
+        
+   I am an Artificial Intelligence Engineering student currently in my third semester. I consider myself a deeply curious and observant person, driven by great determination to achieve every goal I set for myself. I enjoy the process of discovering how things    work and finding creative solutions to any problem I encounter. <b>Updrop</b> I greatly enjoy well-organized spaces and projects that reflect dedication and attention to detail. For me, the path to success is built day by day, combining persistence with the patience needed to overcome obstacles with maturity and resilience. 
+   <br>
+   <br>
     </td>
     <td align="center" valign="middle" width="30%">
       <a href="https://postimg.cc/NyFKLkth">
@@ -82,10 +91,9 @@
 
 [![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) [![KPOP Music](https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2DFExFNWYOwQMZy6wUeCxX?si=s1Ndgj8hTg-r8zLlvRgv1Q) [![PPOP Music](https://img.shields.io/badge/PPOP%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58bZKfJFpUl2CwWET1QJ3X?si=259YV8_VRS-IKHsFZMmPTQ)
 
-
 ---
 
-### Contribution
+### Contribucion 
 
 ![snake gif](https://github.com/Sky-Dc/Sky-Dc/blob/output/github-snake-dark.svg)
 

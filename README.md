@@ -81,9 +81,8 @@
 
 ## Statistics 🚀
 
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=Sky-Dc&show_icons=true&theme=tokyonight)
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sky-Dc&theme=tokyonight" alt="mystreak"/>
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sky-Dc&theme=tokyonight&layout=compact)
 
 ---
 
@@ -103,7 +102,7 @@
 
 <p align="center">
 <a href="mailto:mimiluz1979@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/scarlett._xzc/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/alice.fss1/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/alice.ramirez.165201"><img src="https://img.shields.io/badge/-Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 </p>
 

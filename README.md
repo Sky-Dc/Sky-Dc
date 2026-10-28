@@ -7,7 +7,7 @@
   <h1 align="center">Welcome to <a href="https://github.com/Sky-Dc">my </a>  profile </h1>
 
   <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=Estudiante+de+ingenieria;Aprendiendo+cada+dia;Todo+es+parte+del+proceso;Sanar+aprender+seguir;Siempre+optimista+@"></p>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=Estudiante+de+ingenieria;Aprendiendo+cada+nuevo+dia;Todo+es+parte+del+proceso;Sanar+aprender+seguir;Siempre+optimista+@"></p>
 </div>
 
 ---
